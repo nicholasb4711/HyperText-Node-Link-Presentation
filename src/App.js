@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2 style={{ backgroundColor: "green", center: "left"}}>
+        This area is the presentation layer of the application, this uses JavaScript to render the HTML and CSS to the browser.
+        I have implemented a simple React application to demonstrate the use of JavaScript to render the HTML and CSS to the browser.
+        However the focus today will not be on the JavaScript, but rather on the HTML and CSS.
+      </h2>
     </div>
   );
 }
