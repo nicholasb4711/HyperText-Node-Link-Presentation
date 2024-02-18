@@ -1,5 +1,14 @@
 # HyperText-Node-Link-Presentation
 
+I created a web app that you can demo locally. This app discusses hypertext and how it is used in modern websites with HTML. To create it for demo purposes I bootstrapped it using [Create React App]. To demo this locally and test it for yourself, the instructions are below. If you are unfamiliar with this, in short here is the process:
+### Download the project onto your local machine
+### Local Commands:
+In the project directory, run:
+### `npm install`
+When this completes, run:
+### `npm start`
+This will open the app up hosted locally on localhost:3000, at which point the app is ready for use
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
